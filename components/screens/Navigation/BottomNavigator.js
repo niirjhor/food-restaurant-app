@@ -1,6 +1,6 @@
 import React from 'react';
 
-const DetailScreen = () => {
+const BottomNavigator = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const DetailScreen = () => {
     );
 };
 
-export default DetailScreen;
+export default BottomNavigator;
